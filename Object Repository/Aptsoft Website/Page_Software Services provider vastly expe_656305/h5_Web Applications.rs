@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Web Applications</name>
+   <tag></tag>
+   <elementGuidId>77b41085-f6ff-4890-9396-ac8041ccb09d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#comp-j7geey4s > h5.font_5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-j7geey4s']/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>f8715ab3-b0ae-45de-9b2a-489ebc8def75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font_5</value>
+      <webElementGuid>cd7eea51-8993-4f0f-b0a5-8977751bd933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Web Applications</value>
+      <webElementGuid>46d2c519-3c6e-461d-a747-7d8af55a7981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-j7geey4s&quot;)/h5[@class=&quot;font_5&quot;]</value>
+      <webElementGuid>6170d613-d1d3-4fe5-8bff-5417da63f759</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-j7geey4s']/h5</value>
+      <webElementGuid>cb3eb2d6-121e-41d5-863a-9cebb09100a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Managed IT Services'])[1]/following::h5[1]</value>
+      <webElementGuid>8dfc6975-9091-4913-8987-56a1e6120598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::h5[2]</value>
+      <webElementGuid>52614005-bba0-44a9-84dc-19b8e8a425b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Off-Shore Development'])[1]/preceding::h5[1]</value>
+      <webElementGuid>48292e4c-e428-48e2-af3f-178c47e369ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centre'])[1]/preceding::h5[2]</value>
+      <webElementGuid>7cf89d16-d5ca-4bc8-99b8-5214862055e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web Applications']/parent::*</value>
+      <webElementGuid>0574037d-df78-40df-a4c8-5efdb8cac20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/h5</value>
+      <webElementGuid>b97a3378-5907-4ec4-a25e-6d5243db0c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Web Applications' or . = 'Web Applications')]</value>
+      <webElementGuid>5fe91740-a8b5-4420-9e87-61864a70713f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

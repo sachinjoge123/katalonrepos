@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Address. K63, Yash Building, Erandwane_9da82e</name>
+   <tag></tag>
+   <elementGuidId>b9e2f1b5-02a6-4f89-98fc-98a57f958e9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.font_8 > span > span.color_11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-j6qiwkgp']/p/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a4dca8a-e305-45d6-a275-aac21c61b999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color_11</value>
+      <webElementGuid>9ea85462-f9f5-45c8-9051-c0064a4895b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Address. K6/3, Yash Building, Erandwane, Pune 411004, India</value>
+      <webElementGuid>a4e1de4d-d07b-47df-b397-8a58417639cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-j6qiwkgp&quot;)/p[@class=&quot;font_8&quot;]/span[1]/span[@class=&quot;color_11&quot;]</value>
+      <webElementGuid>19bbe50c-1f7d-48ad-b80c-fe607129f2f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-j6qiwkgp']/p/span/span</value>
+      <webElementGuid>bbc7c8b9-8e29-4302-ab78-799d991a74d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanks for submitting!'])[1]/following::span[2]</value>
+      <webElementGuid>6d9b5473-b1d8-4257-8652-11703b27f539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::span[3]</value>
+      <webElementGuid>88eea706-f854-447f-a3a8-38fd2b1fad27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022 by Aptsoftsolutions'])[1]/preceding::span[1]</value>
+      <webElementGuid>3631fedc-d861-41db-b220-8ed9ad4145d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span/span</value>
+      <webElementGuid>2bf7e2a3-c3fb-46ab-b4c3-ccd67e873dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Address. K6/3, Yash Building, Erandwane, Pune 411004, India' or . = ' Address. K6/3, Yash Building, Erandwane, Pune 411004, India')]</value>
+      <webElementGuid>8066179b-ceee-4c60-a1ea-67344381d3e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

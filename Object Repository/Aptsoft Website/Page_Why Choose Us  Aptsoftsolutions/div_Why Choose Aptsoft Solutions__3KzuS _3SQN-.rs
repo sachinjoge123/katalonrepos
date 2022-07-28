@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Why Choose Aptsoft Solutions__3KzuS _3SQN-</name>
+   <tag></tag>
+   <elementGuidId>61fd9f1e-526d-463e-82cd-f3af34dbebd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bgLayers_comp-j82zjytm > div._3KzuS._3SQN-</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bgLayers_comp-j82zjytm']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>026b2ce3-737a-4343-9662-9dbf0613e887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>colorUnderlay</value>
+      <webElementGuid>766d7a0b-ffa0-481e-82dd-c514a382ecd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3KzuS _3SQN-</value>
+      <webElementGuid>f18249ea-82af-44a7-8af8-b6fd74d32474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bgLayers_comp-j82zjytm&quot;)/div[@class=&quot;_3KzuS _3SQN-&quot;]</value>
+      <webElementGuid>427c56ad-bb63-48a8-a030-8e50744dda26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bgLayers_comp-j82zjytm']/div</value>
+      <webElementGuid>d08ac9fd-6242-4a11-bcc8-94e6cca1a9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div[2]/div/div/div</value>
+      <webElementGuid>873de203-5574-49d5-b78b-69610d6f8d09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

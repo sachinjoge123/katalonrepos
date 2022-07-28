@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_01. Proven</name>
+   <tag></tag>
+   <elementGuidId>6274d5dd-a4e0-4c71-acc3-d126d03ab194</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.color_24 > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp-j82zk6bv']/h5/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>500c424c-c483-4c70-8aad-62ad466b7a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01. Proven</value>
+      <webElementGuid>e712c7f3-79e0-42cb-8120-a6f6ce926b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp-j82zk6bv&quot;)/h5[@class=&quot;font_5&quot;]/span[@class=&quot;color_24&quot;]/span[1]/span[1]</value>
+      <webElementGuid>49796559-ea21-4a17-b190-d161f7cd4150</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp-j82zk6bv']/h5/span/span/span</value>
+      <webElementGuid>88dcf53b-46e7-42d9-9932-8f7267569af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Choose Aptsoft Solutions?'])[1]/following::span[3]</value>
+      <webElementGuid>8d2b952d-c015-4f54-9adc-3391f6295505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cyber threat intelligence (CTI), platform'])[1]/preceding::span[10]</value>
+      <webElementGuid>d5e60529-ee6d-41b2-80c4-605a27d33ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need more info?'])[1]/preceding::span[12]</value>
+      <webElementGuid>d9b3bb43-229a-4d0a-9c64-03fa1e07d5ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='01. Proven']/parent::*</value>
+      <webElementGuid>ef48cec1-fc3b-4ff5-950a-f6a8d40c9437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5/span/span/span</value>
+      <webElementGuid>e31e6d61-28c2-419b-a18d-f18be706876a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '01. Proven' or . = '01. Proven')]</value>
+      <webElementGuid>4adf919d-f07e-4fac-b34c-6cc75e7c47a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
